@@ -1,4 +1,4 @@
 # CNN_ImageProcessing
-Using CNN to classify Images
+Using Convolutional Neural Network to classify Images
 
 An Introduction of Transfer Learning
